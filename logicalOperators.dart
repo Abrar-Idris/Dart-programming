@@ -26,7 +26,7 @@ void main(){
 ...note if both are balue false output is access denied becuz output is false 
 so the answer retuen is eles consdition ..
 */
-    if(isLoggedIn && !isVerified ){
+    if(!isLoggedIn && isVerified ){
         print("access granted ");
     }else{
         print("access denied");
