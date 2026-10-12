@@ -48,4 +48,6 @@ their order matters..
     welcome("Abara","pune");
   }
 
+  //this second value is use when the second argument is omitted
+
 
