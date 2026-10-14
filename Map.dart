@@ -27,5 +27,5 @@ each key is unique,and you use they key to access its value
     prices["book"]=60;
     print(prices["book"]);
     print(prices.containsKey("Pen"));
-    print(prices);
+    print(prices);git 
  }
