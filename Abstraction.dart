@@ -1,4 +1,5 @@
 /*
+Demo program for study
 abstraction define what a class must do 
 while allowing child classes to decide how to do it
  */
